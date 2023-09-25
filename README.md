@@ -2,3 +2,6 @@
 ![Profile views](https://gpvc.arturio.dev/flick0)
 
 eth:`0xD27aD7d7E6003582703fb8519A13c139C3B7372f` :>
+
+
+how do i make my readme look nice
